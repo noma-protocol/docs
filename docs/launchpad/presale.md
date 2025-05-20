@@ -27,19 +27,19 @@ The total number of tokens allocated to the floor is ```10,000,000 * 10% = 1,000
 Let's assume a choice of 40% soft cap:
 
 ```
-soft cap = floor hard cap * 40% = 1,000 BNB * 40% = 400 BNB
+  soft cap = floor hard cap * 40% = 1,000 BNB * 40% = 400 BNB
 ```
 
 The presale price is calculated as follows:
 
 ```
-floor price * (1 + presale markup) = 0.01 BNB * (1 + 0.25) = 0.0125 BNB
+  floor price * (1 + presale markup) = 0.01 BNB * (1 + 0.25) = 0.0125 BNB
 ```
 
 If the softcap is met, there will be the following amount of p-assets minted:
 
 ```
-soft cap / presale price = 400 BNB / 0.0125 BNB = 32,000 p-assets
+  soft cap / presale price = 400 BNB / 0.0125 BNB = 32,000 p-assets
 
 ```
 
@@ -59,7 +59,7 @@ The amount of liquidity allocated to the floor is:
 The total raised by the project founder will be:
 
 ```
-total raised = 400 BNB - 320 BNB = 80 BNB
+  total raised = 400 BNB - 320 BNB = 80 BNB
 ```
 
 ## Appendix
