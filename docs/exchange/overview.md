@@ -6,7 +6,7 @@
 <div>
   <h3> Price chart</h3>
 
-    1. Displays the price history of the selected token 
+    1. Displays the price history of the selected token and the floor price (IMV)
      2. Interactive chart with zoom and pan capabilities  
 </div>
 
