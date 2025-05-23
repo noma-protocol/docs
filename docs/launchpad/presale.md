@@ -3,10 +3,10 @@
 The presale contract accepts deposits in the reserve asset (e.g. WBNB) and mints a corresponding amount of presale tokens (p-asset) to depositors. 
 The p-asset can be redeemed 1:1 for the corresponding oToken, once the presale is finalized. The contract enforces the following rules:
 
-- Presale price is calculated based on a fixed markup (<b>25%</b>) over the floor price (See the appendix).
-- Minimun soft cap is between <b>20%</b> and <b>60%</b> of the hard cap.
-- Presale duration is between <b>30</b> and <b>90</b> days.
-- If a presale  in unsuccessful (does not reach the soft cap), the funds will be returned to depositors after <b>30</b> days from expiration.
+- Presale price is calculated based on a fixed markup (<b style='color:#FFD700'>25%</b>) over the floor price (See the appendix).
+- Minimun soft cap is between <b style='color:#FFD700'>20%</b> and <b style='color:#FFD700'>60%</b> of the hard cap.
+- Presale duration is between <b style='color:#FFD700'>30</b> and <b style='color:#FFD700'>90</b> days.
+- If a presale  in unsuccessful (does not reach the soft cap), the funds will be returned to depositors after <b style='color:#FFD700'>30</b> days from expiration.
 
 A presale can be finalized at any time before the end of its duration, as long as the soft cap is reached. 
 
