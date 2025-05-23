@@ -4,6 +4,17 @@
   The user interface is designed to be easy and intuitive, allowing users to navigate through various functionalities seamlessly. The main parts are: 
 
 <div>
+  <h3> Market selector</h3>
+
+    1. Choose the market to trade (e.g. OKS/BNB) 
+
+</div>
+
+<div>
+    <img src="/assets/img/market_selector.png" alt="Market selector" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
+</div>
+
+<div>
   <h3> Price chart</h3>
 
     1. Displays the price history of the selected token and the floor price (IMV)
@@ -14,21 +25,21 @@
     <img src="/assets/img/price_chart.png" alt="Price chart" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
-  <h3> Wallet balances</h3>
+  <h3> Wallet</h3>
    
-    1. Shows the current balance of the selected market tokens in the user's wallet
+    1. Shows the balances of the selected market tokens in the user's wallet
      2. Controls to wrap/unwrap WBNB and BNB
      3. Borrow and stake buttons for the selected token
 
 <div>
-  <img src="/assets/img/wallet_balances.png" alt="Wallet balances" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
+  <img src="/assets/img/wallet_balances.png" alt="Wallet" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
   <h3>Trading controls </h3>
 
     1. Slider and input box to specify the amount of tokens to trade
      2. Trade type selector (buy/sell)
-     3. Token selector (choose the token to settle the trade) 
+     3. Asset selector (choose the token to settle the trade) 
      4. Execute button to initiate the trade
 <div>
     <img src="/assets/img/trade_controls.png" alt="Trading controls" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
