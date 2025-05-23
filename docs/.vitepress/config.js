@@ -4,7 +4,7 @@ export default {
   appearance: false, // Disable dark mode toggle
   theme: 'dark',
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/assets/img/favicon.png' }],
   ],
   outDir: '../dist',
   themeConfig: {
@@ -53,6 +53,19 @@ export default {
           { text: "Presale" , link: "/launchpad/presale" },
         ]
       },
+      {
+        text: "Exchange",
+        items: [
+          { text: "Overview", link: "/exchange/overview" },
+        ]
+      }, 
+      {
+        text: "Smart Contracts",
+        items: [
+          { text: "Deployments", link: "/launchpad/" },
+          { text: "Audit" , link: "/launchpad/" },
+        ]
+      },            
       // {
       //   text: "Developers",
       //   items: [
