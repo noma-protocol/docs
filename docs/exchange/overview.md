@@ -38,7 +38,7 @@ Watch a short video to see how to buy tokens on the exchange:
       controls 
       preload="metadata"
       onclick="this.paused ? this.play() : this.pause();">
-      <source src="/assets/videos/ex-buy-tokens.mp4" type="video/mp4">
+      <source src="/assets/videos/buy-tok-ex.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
