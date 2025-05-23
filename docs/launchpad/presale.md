@@ -6,11 +6,11 @@ The p-asset can be redeemed 1:1 for the corresponding oToken, once the presale i
 - Presale price is calculated based on a fixed markup (<b style='color:#FFD700'>25%</b>) over the floor price (See the appendix).
 - Minimun soft cap is between <b style='color:#FFD700'>20%</b> and <b style='color:#FFD700'>60%</b> of the hard cap.
 - Presale duration is between <b style='color:#FFD700'>30</b> and <b style='color:#FFD700'>90</b> days.
-- If a presale  in unsuccessful (does not reach the soft cap), the funds will be returned to depositors after <b style='color:#FFD700'>30</b> days from expiration.
+- If a presale in does not reach the soft cap, the funds will be returned to depositors after <b style='color:#FFD700'>30</b> days from its expiration.
 
 A presale can be finalized at any time before the end of its duration, as long as the soft cap is reached. 
 
-*The fixed markup value can be changed on a per-project basis. Please get in touch with the team on Discord in order to discuss the needs of your project.*
+*The fixed markup value can be customized on a per-project basis. Please get in touch with the team on Discord in order to discuss the needs of your project.*
 
 ## Example
 
