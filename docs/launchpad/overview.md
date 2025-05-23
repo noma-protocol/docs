@@ -6,7 +6,7 @@ The launchpad allows project founders to coordinate the launch of their upcoming
 * If the presale is not successful, the liquidity is returned to the liquidity pool and the presale is cancelled.
 * Funds are sent directly to the designated liquidity pool on Uniswap V3, without human intervention.
 
-Whether or not a presale is planned, the launchpad wizard guides the user through the process in three simple steps:
+Whether or not a presale is planned, the launchpad wizard guides the user through the process in few simple steps:
 
 ### 1 - **Token Information**
 
