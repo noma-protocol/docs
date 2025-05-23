@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Oikos Protocol"
-  text: "Next-gen launchpad" 
+  text: "Next-gen launchpad"
   tagline: Unruggable liquidity & unparalled capital efficiency
   image:
     src: /assets/oikos_logo.png

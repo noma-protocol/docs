@@ -1,7 +1,7 @@
 # Exchange
 
   The exchange offers a unified interface for trading tokens bootstrapped on the Oikos launchpad and to access features like borrowing and staking.
-  The user interface is designed to be easy and intuitive, allowing users to navigate through various functionalities seamlessly. The main parts are: 
+  The user interface is designed to be easy and intuitive, allowing users to navigate through various functionalities seamlessly. The main components are: 
 
 <div>
   <h3> Market selector</h3>
@@ -45,13 +45,13 @@
     <img src="/assets/img/trade_controls.png" alt="Trading controls" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
-  <h3>Trade simulation</h3>
+  <h3>Trade Info</h3>
 
     1. Shows trade info such as amount spent and received, slippage and spread
      2. Edit button to set custom slippage value
 
 <div>
-  <img src="/assets/img/trade_simulation.png" alt="Trade simulation" style="width: 80%; max-width: 400px; border-radius: 8px; margin: 20px 0;" />
+  <img src="/assets/img/trade_info.png" alt="Trade Info" style="width: 80%; max-width: 400px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
 <h2>How to buy tokens </h2>
@@ -65,7 +65,7 @@ The exchange allows users to buy tokens using the approved reserve assets (BNB, 
 3. Click the "Execute" button to initiate the trade.
 
 <br />
-Watch a short video to see how to buy tokens on the exchange:
+Watch a short video and learn how to buy tokens on the exchange:
 
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 20px 0;">
     <video 
@@ -73,7 +73,7 @@ Watch a short video to see how to buy tokens on the exchange:
       controls 
       preload="metadata"
       onclick="this.paused ? this.play() : this.pause();">
-      <source src="/assets/videos/buy-tok-ex.mp4" type="video/mp4">
+      <source src="/assets/videos/buy-ex-token.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>

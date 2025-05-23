@@ -62,8 +62,8 @@ export default {
       {
         text: "Smart Contracts",
         items: [
-          { text: "Deployments", link: "/launchpad/" },
-          { text: "Audit" , link: "/launchpad/" },
+          { text: "Deployments", link: "/contracts/deployments" },
+          { text: "Audit" , link: "/contracts/audit" },
         ]
       },            
       // {
