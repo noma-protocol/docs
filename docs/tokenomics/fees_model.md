@@ -5,7 +5,7 @@ The protocol generates revenue through a combination of activities:
 <br />
 <h3>Trading</h3>
 
-The protocol is designed to be the main liquidity provider for the tokens bootstrapped through the launchpad. On top of the variable Uniswap (or Pancakeswap) trading fee, the algorithmic structure of the liquidity allows the protocol to sell tokens with a higher markup compared to the market price. This mechanism allows the protocol to accrue revenue from trading and use it to strengthen the liquidity, allowing the floor price to bump.
+The protocol is designed to be the main liquidity provider for the tokens bootstrapped through the launchpad. On top of the variable Uniswap (or Pancakeswap) trading fee, the algorithmic structure of the liquidity allows the protocol to sell tokens with a higher markup compared to the market price. This mechanism enables the protocol to accrue revenue from trading and use it to strengthen the liquidity, allowing the floor price to bump.
 
 <br />
 <h3>Borrowing</h3>
