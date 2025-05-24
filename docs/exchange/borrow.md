@@ -22,3 +22,14 @@ Holder chooses the amount of tokens to borrow and the duration of the loan. The 
 <div>
   <img src="/assets/img/borrow_active_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
 </div>
+
+# Actions
+<br />
+
+  <h3>Repay Loan</h3>
+
+    1. Click on the "Repay" button to initiate the process. 
+
+<div>
+  <img src="/assets/img/borrow_repay_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
+</div>
