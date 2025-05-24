@@ -1,6 +1,6 @@
 # Exchange
 
-  The exchange offers a unified interface for trading tokens bootstrapped on the Oikos launchpad and to access features like borrowing and staking.
+  The exchange offers a unified interface for trading tokens bootstrapped on the Oikos launchpad (oTokens) and to access features like borrowing and staking.
   The user interface is designed to be easy and intuitive, allowing users to navigate through various functionalities seamlessly. The main components are: 
 
 <div>
@@ -54,14 +54,14 @@
   <img src="/assets/img/trade_info.png" alt="Trade Info" style="width: 80%; max-width: 400px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
-<h2>How to buy tokens </h2>
+<h2>Trade tokens </h2>
 
-The exchange allows users to buy tokens using the approved reserve assets (BNB, WBNB at the moment). The process is simple and straightforward: 
+The exchange allows users to buy and sell tokens using the approved reserve assets (BNB, WBNB at the moment). The process is simple and straightforward: 
 
-<h3>Buy tokens</h3>
+<h3>Trade tokens</h3>
 
 1. Choose the trade type (buy/sell) and select the settlement token (e.g. BNB or WBNB).
-2. Enter the amount of tokens you want to buy using the slider or text input.
+2. Enter the amount of tokens you want to trade using the slider or text input.
 3. Click the "Execute" button to initiate the trade.
 
 <br />
