@@ -8,7 +8,7 @@ The protocol is designed to be the main liquidity provider for the tokens bootst
 
 <h3>Loans</h3>
 
-When holders borrow from the liquidity, the protocol charges an interest rate  of <b style='color:#FFD700'>0.0027%</b> per diem over the loan duration, charged upfront.  
+When holders borrow from the liquidity, the protocol imposes an interest rate  of <b style='color:#FFD700'>0.0027%</b> per diem over the loan duration, charged upfront.  
 
 
 <h2>Revenue sharing</h2>
