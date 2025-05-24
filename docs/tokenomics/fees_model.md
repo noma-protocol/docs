@@ -13,10 +13,12 @@ When holders borrow from the liquidity, the protocol charges an interest rate  o
 
 <h2>Revenue sharing</h2>
 
-Every time the floor price bumps, the protocol computes the amount of tokens which are minted to be used as reward. The rewards are distributed as follows: 
+Every time the floor price bumps, the protocol computes the amount of tokens which are minted to be used as rewards. The rewards are distributed as follows: 
 
 * <b style='color:#FFD700'>90%</b> to stakers 
 * <b style='color:#FFD700'>5%</b> to the project founding entity
 * <b style='color:#FFD700'>5%</b> to Oikos Team
+
+This is done to incentivize creators to bootstrap their tokens on the Oikos platform and to reward the team for their work and continued efforts. 
 
 
