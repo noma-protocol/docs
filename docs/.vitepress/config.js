@@ -36,7 +36,8 @@ export default {
         items: [
           { text: "Intrinsic Minimum Value", link: "/concepts/imv" },
           { text: "Dynamic Liquidity & Supply", link: "/concepts/dynamic-liquidity" },
-          { text: "Solvency Invariant", link: "/concepts/solvency_invariant" }
+          { text: "Solvency Invariant", link: "/concepts/solvency_invariant" },
+          { text: "Fees model", link: "/tokenomics/fees_model.md" },
         ]
       },
       {
@@ -57,6 +58,8 @@ export default {
         text: "Exchange",
         items: [
           { text: "Overview", link: "/exchange/overview" },
+          { text: "Borrow" , link: "/exchange/borrow" }, 
+          { text: "Staking" , link: "/exchange/staking" },
         ]
       }, 
       {
