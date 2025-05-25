@@ -4,4 +4,4 @@ The market page offers a list of all the tokens pairs bootstrapped on the launch
 
 <br />
 
-<img src="../public/assets/img/markets.png" alt="markets view" width="750"/>
+<img src="../public/assets/img/markets_all.png" alt="markets view" width="750"/>

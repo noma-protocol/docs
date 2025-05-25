@@ -56,6 +56,13 @@ export default {
         ]
       },
       {
+        text: "Presale",
+        items: [
+          { text: "Overview", link: "/presale/overview" },
+          { text: "Structure", link: "/presale/structure" },
+        ]
+      },      
+      {
         text: "Exchange",
         items: [
           { text: "Overview", link: "/exchange/overview" },
