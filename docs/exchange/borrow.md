@@ -26,10 +26,41 @@ Holder chooses the amount of tokens to borrow and the duration of the loan. The 
 # Actions
 <br />
 
+  <h3>Add Collateral</h3>
+
+Holders with an active loan can add more collateral to their loan. This is useful when the holder wants to increase the borrowed amount. The process is as follows:
+
+    1. Click on the "Add" button to show the sidebar controls
+     2. Choose the amount of collateral to add
+     3. Click "Confirm"
+
+<div>
+  <img src="/assets/img/borrow_add_collateral.png" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
+</div>
+
+<br />
+
   <h3>Repay Loan</h3>
+
+Holders with an active loan can extinguish it by repaying the borrowed amount:
 
     1. Click on the "Repay" button to initiate the process. 
 
 <div>
   <img src="/assets/img/borrow_repay_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
+</div>
+
+<br />
+
+  <h3>Roll Loan</h3>
+
+When the collateral value increases (either because the floor price bumps or because the user adds more collateral), the holder can borrow more funds and extend the loan duration. The process is as follows:
+
+
+    1. Choose the new loan duration in the "New Loan" panel
+     2. Click on the "Roll Loan" to show the sidebar with the new terms
+     3. Click "Confirm"
+
+<div>
+  <img src="/assets/img/borrow_roll_loan_square.png" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
 </div>
