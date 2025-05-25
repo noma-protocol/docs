@@ -16,12 +16,22 @@ Holder chooses the amount of tokens to borrow and the duration of the loan. The 
 
   <h3>Active Loan</h3>
 
-    1. Current loan indicator with LTV (Loan-To-Value)
+    1. Current loan information with LTV indicator (Loan-To-Value)
      2. Action buttons (add collateral, repay, roll loan)
       
 <div>
   <img src="/assets/img/borrow_active_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
 </div>
+
+<h4> Loan-To-Value (LTV) Indicator</h4>
+
+The LTV indicator shows the current ratio between the borrowed amount and the value of the collateral. A higher LTV indicates the borrowed amount can be increased.  
+
+<div>
+  <img src="/assets/img/borrow_ltv.png" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
+</div>
+
+<br />
 
 # Actions
 <br />
