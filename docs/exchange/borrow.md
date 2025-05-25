@@ -9,7 +9,7 @@ Holders can borrow reserve assets against their token holdings through the Oikos
      3. Borrow button
 
 <div>
-  <img src="/assets/img/borrow_new_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
+  <img src="/assets/img/borrow.gif" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
 Holder chooses the amount of tokens to borrow and the duration of the loan. The interface displays the collateral requirements and any associated fees. Once satisfied with the terms, they can click the "Borrow" button to initiate the loan.
@@ -45,7 +45,7 @@ Holders with an active loan can add more collateral to their loan. This is usefu
      3. Click "Confirm"
 
 <div>
-  <img src="/assets/img/borrow_add_collateral.png" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
+  <img src="/assets/img/add_collateral.gif" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
 <br />
@@ -57,7 +57,7 @@ Holders with an active loan can extinguish it by repaying the borrowed amount:
     1. Click on the "Repay" button to initiate the process. 
 
 <div>
-  <img src="/assets/img/borrow_repay_loan.png" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
+  <img src="/assets/img/repay.gif" alt="Trade Info" style="width: 80%; max-width: 700px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
 <br />
