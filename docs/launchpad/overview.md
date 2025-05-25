@@ -14,7 +14,7 @@ The user is asked to provide the token name, symbol, decimals and whether or not
 
 <img src="../public/assets/img/step_1_launchpad_oikos.png" alt="Launchpad Step 1" width="550"/>
 
-### 2) **Pool Information**
+### 2 - **Pool Information**
 
 The user enters the desired floor price, expressed in reserve asset (e.g. WBNB) and chooses the reserve asset itself. Initially only WBNB is available.
 
