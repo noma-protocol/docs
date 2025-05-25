@@ -25,7 +25,7 @@ Holder chooses the amount of tokens to borrow and the duration of the loan. The 
 
 <h4> Loan-To-Value (LTV) Indicator</h4>
 
-The LTV indicator shows the current ratio between the borrowed amount and the value of the collateral. A higher LTV indicates the borrowed amount can be increased.  
+The LTV indicator shows the current ratio between the borrowed amount and the value of the collateral. A LTV higher than one (1) indicates the borrowed amount can be increased.  
 
 <div>
   <img src="/assets/img/borrow_ltv.png" alt="Trade Info" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
