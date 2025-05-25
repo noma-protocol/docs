@@ -38,7 +38,7 @@ The LTV indicator shows the current ratio between the borrowed amount and the va
 
   <h3>Add Collateral</h3>
 
-Holders with an active loan can add more collateral to their loan. This is useful when the holder wants to increase the borrowed amount. The process is as follows:
+Holders with an active loan can add more collateral to their loan. This is useful when a holder wants to increase their borrowed amount. The process is as follows:
 
     1. Click on the "Add" button to show the sidebar controls
      2. Choose the amount of collateral to add
@@ -64,7 +64,7 @@ Holders with an active loan can extinguish it by repaying the borrowed amount:
 
   <h3>Roll Loan</h3>
 
-When the collateral value increases (either because the floor price bumps or because the user adds more collateral), the holder can borrow more funds and extend the loan duration. The process is as follows:
+When the collateral value increases (either because the floor price bumps or because the user adds more collateral), a holder can borrow more funds and extend the loan duration. The process is as follows:
 
 
     1. Choose the new loan duration in the "New Loan" panel
