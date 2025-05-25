@@ -37,7 +37,7 @@ export default {
           { text: "Intrinsic Minimum Value", link: "/concepts/imv" },
           { text: "Dynamic Liquidity & Supply", link: "/concepts/dynamic-liquidity" },
           { text: "Solvency Invariant", link: "/concepts/solvency_invariant" },
-          { text: "Fees model", link: "/tokenomics/fees_model.md" },
+          { text: "Revenue model", link: "/tokenomics/revenue_model.md" },
         ]
       },
       {

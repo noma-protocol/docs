@@ -1,4 +1,4 @@
-# Fees model
+# Revenue model
 
 The protocol generates revenue through a combination of activities: 
 
