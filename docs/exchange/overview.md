@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <img src="/assets/img/market_selector.png" alt="Market selector" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
+    <img src="/assets/img/market_selector.gif" alt="Market selector" style="width: 80%; max-width: 300px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
 <div>
@@ -42,7 +42,7 @@
      3. Asset selector (choose the token to settle the trade) 
      4. Execute button to initiate the trade
 <div>
-    <img src="/assets/img/trade_controls.png" alt="Trading controls" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
+    <img src="/assets/img/trading_controls.gif" alt="Trading controls" style="width: 80%; max-width: 600px; border-radius: 8px; margin: 20px 0;" />
 </div>
 
   <h3>Trade Info</h3>
