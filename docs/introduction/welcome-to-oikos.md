@@ -1,6 +1,6 @@
 # Welcome to Oikos
 
-The Oikos protocol allows the creation of a new class of assets with high capital efficiency and built-in utility. Oikos tokens run on top of Uniswap V3 concentrated liquidity positions and own/manage their own liquidity without human intervention. The protocol is permissionless [after the gated phase ends], meaning that anyone can launch a token or trigger another asset public functions, without the need for special privileges. Thanks to the algorithmic structure of the liquidity, Oikos tokens feature innovative characteristics, such as:
+The Oikos protocol allows the creation of a new class of assets with high capital efficiency and built-in utility. Oikos tokens run on top of Uniswap V3 concentrated liquidity positions and own/manage their own liquidity without human intervention. The protocol is permissionless <b color="#f3f7c6">(after the gated phase ends)</b>, meaning that anyone can launch a token or trigger another asset public functions, without the need for special privileges. Thanks to the algorithmic structure of the liquidity, Oikos tokens feature innovative characteristics, such as:
 
 <br />
 
