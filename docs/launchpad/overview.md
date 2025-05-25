@@ -50,8 +50,4 @@ This step will show a summary of the information provided in the previous steps 
 
 <img src="../public/assets/img/step_4_launchpad_oikos.png" alt="Launchpad Step 4" width="550"/>
 
-Once the user accepts and confirms the transaction, the token is deployed and a presale page is created and added to the corresponding section as shown in the image below.
-
-<br />
-
-<img src="../public/assets/img/markets.png" alt="markets view" width="750"/>
+Once the user accepts and confirms the transaction, the token is deployed and an entry is added to the markets section. 
