@@ -13,7 +13,7 @@ When holders borrow from the liquidity, the protocol imposes an interest rate  o
 
 <h2>Revenue sharing</h2>
 
-Every time the floor price bumps, the protocol computes the amount of tokens which are minted to be used as rewards. The rewards are distributed as follows: 
+Every time the floor price bumps, the protocol computes the amount of tokens which are minted to be used as rewards and shared between stakers, project founders and the Oikos Team. Rewards are minted in the native token, e.g. for the OKS/BNB pair, rewards are minted in OKS and backed by BNB in the floor position liquidity. The distribution is structured as follows: 
 
 * <b style='color:#FFD700'>90%</b> to stakers 
 * <b style='color:#FFD700'>5%</b> to founders
