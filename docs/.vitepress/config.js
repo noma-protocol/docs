@@ -52,7 +52,6 @@ export default {
         items: [
           { text: "Overview", link: "/launchpad/overview" },
           { text: "Markets", link: "/launchpad/markets" },
-          { text: "Presale" , link: "/launchpad/presale" },
         ]
       },
       {

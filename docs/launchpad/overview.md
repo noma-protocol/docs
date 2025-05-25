@@ -41,7 +41,7 @@ The presale price is computed automatically based on a fixed presale markup (25%
 * The presale markup can be changed on a per-project basis. Contact the team on Discord to discuss your project.
 </p>
 
-See the <a href="../launchpad/presale" target="_blank">Presale section</a> for details.
+See the <a href="/presale/structure">Presale section</a> for details.
 
 
 ### 4 - **Confirm Deploy (with presale)**
