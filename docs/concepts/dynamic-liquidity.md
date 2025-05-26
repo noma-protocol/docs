@@ -7,12 +7,12 @@ The Oikos protocol works as a market making middleware for the liquidity it cont
 <img src="../public/assets/img/oikos_liquidity_structure.png" alt="Liquidity structure" width="550"/>
 
 
-## Backed and unbacked supply
+## Backed VS unbacked supply
 When a token is created, the initial supply is not backed by any reserve asset. Reserve assets can be funneled into the protocol in two ways: 
 
-* *Trustless presale mechanism* - The protocol allows founders to run a presale for their token to raise funds for the initial liquidity. See <a href="/presale/structure">Presale</a> section.
+* <b style='color:##f3f7c6'>*Trustless presale mechanism*</b> - The protocol allows founders to run a presale for their token to raise funds for the initial liquidity. See <a href="/presale/structure">Presale</a> section.
 
-* *Trading activity* - As trading happens the positions are filled with the reserve asset. 
+* <b style='color:##f3f7c6'>*Trading activity*</b> - As trading happens the positions are filled with the reserve asset. 
 
 In both cases, presale purchases or trading activity are responsible for filling the liquidity positions with reserve assets. This mechanism consolidate the funds that back the initial supply deployed to the floor liquidity. Once the anchor price range is exhausted, trading moves to the the discovery position. At this point, the protocol starts accumulating surplus reserve assets that can be rebalanced toward the floor liquidity, increasing the floor price (IMV). This is because the algorithmic structure of the liquidity allows the protocol to always sell tokens at a markup, compared to the IMV itself. Once a certain threshold is crossed, the rebalance operation can be triggered permissionlessly by anyone. The threshold parameter is configurable "per-token" and can be adjusted at the request of project founders.
 
