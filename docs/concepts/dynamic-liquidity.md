@@ -7,7 +7,7 @@ The Oikos protocol works as a market making middleware for the liquidity it cont
 <img src="../public/assets/img/oikos_liquidity_structure.png" alt="Liquidity structure" width="550"/>
 
 
-## Backed VS unbacked supply
+## Backed vs unbacked supply
 When a token is created, the initial supply is not backed by any reserve asset. Reserve assets can be funneled into the protocol in two ways: 
 
 * <b style='color:##f3f7c6'>*Trustless presale mechanism*</b> - The protocol allows founders to run a presale for their token to raise funds for the initial liquidity. See <a href="/presale/structure">Presale</a> section.
