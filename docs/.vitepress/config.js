@@ -4,7 +4,7 @@ export default {
   appearance: false, // Disable dark mode toggle
   theme: 'dark',
   head: [
-    ['link', { rel: 'icon', href: '/assets/img/favicon.png' }],
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }],
   ],
   outDir: '../dist',
   themeConfig: {
