@@ -1,6 +1,6 @@
 # Borrow 
 
-Holders can borrow reserve assets against their token holdings through the Oikos exchange. The user interface is clean and intuitive, making it easy to navigate through the borrowing process. Here are the main components of the borrowing interface:
+Holders can borrow reserve assets against their token holdings through the Noma exchange. The user interface is clean and intuitive, making it easy to navigate through the borrowing process. Here are the main components of the borrowing interface:
 
   <h3>New Loan</h3>
 

@@ -1,12 +1,12 @@
-# Oikos Protocol Architecture
+# Noma Protocol Architecture
 
-Oikos Protocol implements a unique token architecture that ensures price stability, liquidity efficiency, and sustainable market dynamics. This page outlines the core architectural components and how they work together.
+Noma Protocol implements a unique token architecture that ensures price stability, liquidity efficiency, and sustainable market dynamics. This page outlines the core architectural components and how they work together.
 
 ## System Overview
 
 ![Architecture Diagram](/assets/oikos_bg.svg)
 
-The Oikos token architecture consists of three primary components:
+The Noma token architecture consists of three primary components:
 
 1. **Floor Price Mechanism**: The system that establishes and maintains the guaranteed minimum value
 2. **Dynamic Liquidity Engine**: The automated market making and liquidity management system
@@ -14,7 +14,7 @@ The Oikos token architecture consists of three primary components:
 
 ## Floor Price Mechanism
 
-The Floor Price Mechanism (also called Guaranteed Minimum Value or GMV) is the cornerstone of Oikos tokens:
+The Floor Price Mechanism (also called Guaranteed Minimum Value or GMV) is the cornerstone of Noma tokens:
 
 ### Key Components
 
@@ -76,7 +76,7 @@ The Utility Framework provides financial applications built directly into the to
 
 ## Integration Layer
 
-The Integration Layer connects Oikos tokens to the broader ecosystem:
+The Integration Layer connects Noma tokens to the broader ecosystem:
 
 - **DEX Integration**: Interfaces with decentralized exchanges
 - **Bridge Compatibility**: Enables cross-chain functionality
@@ -85,7 +85,7 @@ The Integration Layer connects Oikos tokens to the broader ecosystem:
 
 ## Security Architecture
 
-Security is foundational to the Oikos Protocol:
+Security is foundational to the Noma Protocol:
 
 - **Formal Verification**: Core contracts are formally verified for correctness
 - **Rigorous Testing**: Comprehensive testing across all components

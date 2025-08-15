@@ -1,6 +1,6 @@
 export default {
-  title: "OIKOS",
-  description: "Documentation for the Oikos Protocol",
+  title: "NOMA",
+  description: "Documentation for the Noma Protocol",
   appearance: false, // Disable dark mode toggle
   theme: 'dark',
   head: [
@@ -17,7 +17,7 @@ export default {
       label: 'On this page'
     },
     lastUpdatedText: 'Last Updated',
-    logo: "/assets/oikos_logo.png",
+    logo: "/assets/noma_logo.png",
     nav: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
@@ -26,7 +26,7 @@ export default {
       {
         text: "Introduction",
         items: [
-          { text: "What is Oikos?", link: "/introduction/welcome-to-oikos" },
+          { text: "What is Noma?", link: "/introduction/welcome-to-noma" },
           { text: "For founders", link: "/introduction/for-founders" },
           { text: "For holders", link: "/introduction/for-holders" }
         ]
@@ -58,17 +58,17 @@ export default {
         text: "Presale",
         items: [
           { text: "Overview", link: "/presale/overview" },
-          { text: "Structure", link: "/presale/structure" },
+          // { text: "Structure", link: "/presale/structure" },
         ]
       },      
-      {
-        text: "Exchange",
-        items: [
-          { text: "Overview", link: "/exchange/overview" },
-          { text: "Borrow" , link: "/exchange/borrow" }, 
-          { text: "Staking" , link: "/exchange/staking" },
-        ]
-      }, 
+      // {
+      //   text: "Exchange",
+      //   items: [
+      //     { text: "Overview", link: "/exchange/overview" },
+      //     { text: "Borrow" , link: "/exchange/borrow" }, 
+      //     { text: "Staking" , link: "/exchange/staking" },
+      //   ]
+      // }, 
       {
         text: "Smart Contracts",
         items: [
@@ -86,13 +86,13 @@ export default {
       // }
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/oikos-cash" },
-      { icon: "twitter", link: "https://twitter.com/oikos-cash" },
-      { icon: "discord", link: "https://discord.gg/xTahMDXbRC" }
+      { icon: "github", link: "https://github.com/noma-protocol" },
+      { icon: "twitter", link: "https://twitter.com/nomaprotocol" },
+      { icon: "discord", link: "https://discord.gg/nomaprotocol" }
     ],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2025-present Oikos Protocol"
+      copyright: "Copyright © 2025-present Noma Protocol"
     }
   }
 }

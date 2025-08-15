@@ -1,12 +1,12 @@
 # Tokenomics Design
 
-Oikos implements a revolutionary tokenomics design that solves fundamental problems in traditional token markets. This page explains the core design principles, mechanisms, and innovations that make Oikos tokens unique.
+Noma implements a revolutionary tokenomics design that solves fundamental problems in traditional token markets. This page explains the core design principles, mechanisms, and innovations that make Noma tokens unique.
 
 ## Design Foundations
 
 ### The Floor Price Guarantee
 
-The cornerstone of Oikos tokenomics is the guaranteed floor price mechanism:
+The cornerstone of Noma tokenomics is the guaranteed floor price mechanism:
 
 - **Permanent Reserve**: A portion of capital is permanently locked to back token value
 - **Never-Decreasing**: The floor price can only increase, never decrease
@@ -29,7 +29,7 @@ This self-contained market-making system ensures reliable liquidity and price st
 
 ### Fixed Supply Tokenomics
 
-Oikos tokens maintain a fixed supply model with important distinctions:
+Noma tokens maintain a fixed supply model with important distinctions:
 
 - **Immediate Full Issuance**: All tokens are created at launch with no hidden vesting
 - **No Future Inflation**: No additional tokens will be minted after launch
@@ -44,7 +44,7 @@ This eliminates the "supply overhang" problem that plagues many tokens, where pr
 
 ![Liquidity Model](/assets/icon3.png)
 
-Oikos implements a sophisticated three-tiered liquidity structure:
+Noma implements a sophisticated three-tiered liquidity structure:
 
 1. **Floor Range**: Tightly concentrated liquidity around the guaranteed floor price
    - Ensures redemption capability at all times
@@ -75,7 +75,7 @@ This creates a virtuous cycle where normal market activity continuously strength
 
 ### Built-in Financial Utilities
 
-Oikos tokens natively support advanced financial operations:
+Noma tokens natively support advanced financial operations:
 
 - **Zero-Interest Loans**: Borrow against tokens with no liquidation risk
 - **Leveraged Positions**: Create amplified exposure through automated loops
@@ -88,7 +88,7 @@ These utilities create additional token demand and utility beyond speculation.
 
 ### Capital Efficiency
 
-Oikos maximizes the efficiency of deployed capital:
+Noma maximizes the efficiency of deployed capital:
 
 - **Concentrated Liquidity**: Capital deployed precisely where needed
 - **Multi-Purpose Reserves**: The same reserves back floor price and provide trading liquidity
@@ -135,7 +135,7 @@ The protocol includes flexible governance options:
 
 ## Future Directions
 
-The Oikos tokenomics model continues to evolve:
+The Noma tokenomics model continues to evolve:
 
 1. **Advanced Curve Designs**: More sophisticated liquidity curve strategies
 2. **Cross-Chain Expansion**: Implementation across multiple blockchains

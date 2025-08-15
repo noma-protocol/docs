@@ -1,14 +1,14 @@
 # Core Components
 
-Oikos Protocol consists of several specialized components that work together to create sustainable token markets. This page describes the key components and their functions.
+Noma Protocol consists of several specialized components that work together to create sustainable token markets. This page describes the key components and their functions.
 
 ## Token Foundation Components
 
 ### Reserve Pool
 
-The Reserve Pool is the backbone of Oikos tokens, providing the floor price guarantee:
+The Reserve Pool is the backbone of Noma tokens, providing the floor price guarantee:
 
-- Holds reserve assets (BNB, ETH, etc.) that back the token's floor price
+- Holds reserve assets (MON, ETH, etc.) that back the token's floor price
 - Accumulates a portion of trading fees to grow over time
 - Enables direct redemption of tokens at the floor price
 - Provides capital for the protocol's market-making activities
@@ -64,7 +64,7 @@ The Staking Module manages token staking and rewards:
 
 ### Exchange Integrator
 
-The Exchange Integrator connects Oikos tokens to decentralized exchanges:
+The Exchange Integrator connects Noma tokens to decentralized exchanges:
 
 - **Uniswap V3 Adapter**: Manages positions on Uniswap/PancakeSwap
 - **Order Router**: Optimizes trade execution
@@ -104,7 +104,7 @@ The Security Framework ensures protocol safety:
 
 ![Component Diagram](/assets/icon2.png)
 
-The Oikos components work together in a coordinated system:
+The Noma components work together in a coordinated system:
 
 1. The **Reserve Pool** provides the foundation for the **Floor Price Mechanism**
 2. The **Liquidity Manager** interacts with exchanges through the **Exchange Integrator**

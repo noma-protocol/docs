@@ -56,7 +56,7 @@ const theme = {
             console.log('Found name.clip element:', el)
 
             // Apply gradient text
-            el.style.setProperty('background', 'linear-gradient(90deg, #CCAA00	, #ffd700)', 'important')
+            el.style.setProperty('background', 'linear-gradient(90deg, #34d399	, #059669)', 'important')
             el.style.setProperty('-webkit-background-clip', 'text', 'important')
             el.style.setProperty('background-clip', 'text', 'important')
             el.style.setProperty('color', 'transparent', 'important')
@@ -77,7 +77,7 @@ const theme = {
           const otherElements = document.querySelectorAll('.VPButton')
           otherElements.forEach(el => {
             console.log('Found VPButton element:', el)
-            el.style.setProperty('background', 'linear-gradient(90deg, #bf9a2f	, #a57b00)', 'important')
+            el.style.setProperty('background', 'linear-gradient(90deg, #059669	, #15803d)', 'important')
 
           })
 

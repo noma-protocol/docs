@@ -12,20 +12,20 @@ Whether or not a presale is planned, the launchpad wizard guides the user throug
 
 The user is asked to provide the token name, symbol, decimals and whether or not to include a presale. Defaults to "no presale".
 
-<img src="../public/assets/img/step_1_launchpad_oikos.png" alt="Launchpad Step 1" width="550"/>
+<img src="../public/assets/step1_launchpad.png" alt="Launchpad Step 1" width="550"/>
 
 ### 2 - **Pool Information**
 
-The user enters the desired floor price, expressed in reserve asset (e.g. WBNB) and chooses the reserve asset itself. Initially only WBNB is available.
+The user enters the desired floor price, expressed in reserve asset (e.g. WMON) and chooses the reserve asset itself. Initially only WMON is available.
 
-<img src="../public/assets/img/step_2_launchpad_oikos.png" alt="Launchpad Step 2" width="550"/>
+<img src="../public/assets/step2_launchpad.png" alt="Launchpad Step 2" width="550"/>
 
 
 ### 3(a) - **Confirm Deploy (no presale)**
 
 If the user selected "no presale", step 3 will show a summary of the information provided in the previous steps and prompt the user to deploy the token.
 
-<img src="../public/assets/img/step_3_launchpad_nopresale_oikos.png" alt="Launchpad Step 3a" width="550"/>
+<img src="../public/assets/step3_launchpad.png" alt="Launchpad Step 3a" width="550"/>
 
 Once the user accepts and confirms the transaction, the token is deployed and the corresponding entry is added to the markets section.
 
@@ -33,7 +33,7 @@ Once the user accepts and confirms the transaction, the token is deployed and th
 
 If the user selected to include a presale, they will have to enter additional information such as the soft cap and presale duration. 
 
-<img src="../public/assets/img/step_3_launchpad_oikos.png" alt="Launchpad Step 3b" width="550"/>
+<img src="../public/assets/step3_launchpad_presale.png" alt="Launchpad Step 3b" width="550"/>
 
 The presale price is computed automatically based on a fixed presale markup (25%). Lastly, the user specifies the desired soft cap (between 20% and 60% of the hard cap) and a duration for the presale (min 30 max 90 days). The presale can be finalized at any time before the end of the duration, as long as the soft cap is reached. 
 
@@ -48,6 +48,6 @@ See the <a href="/presale/structure">Presale section</a> for details.
 This step will show a summary of the information provided in the previous steps (including the presale configuration) and prompt the user to deploy the token.
 
 
-<img src="../public/assets/img/step_4_launchpad_oikos.png" alt="Launchpad Step 4" width="550"/>
+<img src="../public/assets/step4_launchpad_presale.png" alt="Launchpad Step 4" width="550"/>
 
 Once the user accepts and confirms the transaction, the token is deployed and an entry is added to the markets section. 

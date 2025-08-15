@@ -1,10 +1,10 @@
 # Dynamic Liquidity & Supply
 
-The Oikos protocol works as a market making middleware for the liquidity it controls. At the core of the system is a combination of Uniswap V3 concentrated positions and an algorithmic structure that allows the protocol to rebalance the liquidity in response to market conditions and guarantee that the insolvency invariant is always satisfied. 
+The Noma protocol works as a market making middleware for the liquidity it controls. At the core of the system is a combination of Uniswap V3 concentrated positions and an algorithmic structure that allows the protocol to rebalance the liquidity in response to market conditions and guarantee that the insolvency invariant is always satisfied. 
 
 ## Protocol-Owned Liquidity structure
 
-<img src="../public/assets/img/oikos_liquidity_structure.png" alt="Liquidity structure" width="550"/>
+<img src="../public/assets/img/noma_liquidity_structure.png" alt="Liquidity structure" width="550"/>
 
 
 ## Backed vs unbacked supply

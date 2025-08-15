@@ -1,12 +1,14 @@
 {
   "name": "oikos-docs",
   "version": "1.0.0",
-  "description": "Documentation for Oikos Protocol",
+  "description": "Documentation for Noma Protocol",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "clean": "rm -rf dist/ docs/.vitepress/dist/",
+    "serve": "npx serve dist -p 3000"
   },
   "keywords": ["oikos", "protocol", "documentation", "crypto"],
   "author": "",

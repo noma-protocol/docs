@@ -1,6 +1,6 @@
 # Initial Guaranteed Minimum Value (IGMV) Event
 
-The IGMV Event is a crucial mechanism for launching your Oikos token, establishing its initial floor price, and raising the capital needed to create sustainable market dynamics. This process enables a fair and transparent token launch while ensuring proper price discovery.
+The IGMV Event is a crucial mechanism for launching your Noma token, establishing its initial floor price, and raising the capital needed to create sustainable market dynamics. This process enables a fair and transparent token launch while ensuring proper price discovery.
 
 ![IGMV Configuration](/assets/icon2.png)
 

@@ -1,12 +1,12 @@
 # Exchange
 
-  The exchange offers a unified interface for trading tokens bootstrapped on the Oikos launchpad (oTokens) and to access features like borrowing and staking.
+  The exchange offers a unified interface for trading tokens bootstrapped on the Noma launchpad (oTokens) and to access features like borrowing and staking.
   The user interface is designed to be easy and intuitive, allowing users to navigate through various functionalities seamlessly. The main components are: 
 
 <div>
   <h3> Market selector</h3>
 
-    1. Choose the market to trade (e.g. OKS/BNB) 
+    1. Choose the market to trade (e.g. NOMA/MON) 
 
 </div>
 
@@ -28,7 +28,7 @@
   <h3> Wallet</h3>
    
     1. Shows the balances of the selected market tokens in the user's wallet
-     2. Controls to wrap/unwrap WBNB and BNB
+     2. Controls to wrap/unwrap WMON and MON
      3. Borrow and stake buttons for the selected token
 
 <div>
@@ -56,11 +56,11 @@
 
 <h2>Trade tokens </h2>
 
-The exchange allows users to buy and sell tokens using the approved reserve assets (BNB, WBNB at the moment). The process is simple and straightforward: 
+The exchange allows users to buy and sell tokens using the approved reserve assets (MON, WMON at the moment). The process is simple and straightforward: 
 
 <h3>Trade tokens</h3>
 
-1. Choose the trade type (buy/sell) and select the settlement token (e.g. BNB or WBNB).
+1. Choose the trade type (buy/sell) and select the settlement token (e.g. MON or WMON).
 2. Enter the amount of tokens you want to trade using the slider or text input.
 3. Click the "Execute" button to initiate the trade.
 

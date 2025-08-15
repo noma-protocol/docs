@@ -2,21 +2,21 @@
 layout: home
 
 hero:
-  name: "Oikos Protocol"
+  name: "Noma Protocol"
   text: "Next-gen launchpad"
   tagline: Unruggable liquidity & unparalled capital efficiency
   image:
-    src: /assets/oikos_logo.png
-    alt: Oikos
+    src: /assets/noma_logo.png
+    alt: Noma
     width: 200
     height: 200
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction/welcome-to-oikos
+      link: /introduction/welcome-to-noma
     - theme: alt
       text: View on GitHub
-      link: https://github.com/oikos-cash
+      link: https://github.com/noma-protocol
 
 features:
   - icon: 

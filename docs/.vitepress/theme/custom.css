@@ -2,15 +2,25 @@
  * Base colors for both light and dark mode
  */
 :root {
-  --vp-c-brand: #f3f7c6;
-  --vp-c-brand-light: #f3f7c6;
-  --vp-c-brand-gold: #a99c18;
-  --vp-c-gold: #ffd700;
-  --vp-c-gold-light: #ffdf33;
-  --vp-c-gold-dark: #d4af37;
-  --vp-c-brand-lighter: #f3f8c4;
-  --vp-c-brand-dark: #e0e969;
-  --vp-c-brand-darker: #e5e754;
+  /* Brand greens (base around #4ade80) */
+  --vp-c-brand: #4ade80; /* base green */
+  --vp-c-brand-light: #6ee7a3; /* lighter mint green */
+  --vp-c-brand-gold: #2fa860; /* deep green-gold mix */
+
+  /* “Gold” equivalents in green tones */
+  --vp-c-gold: #22c55e; /* vivid green */
+  --vp-c-gold-light: #86efac; /* soft pastel green */
+  --vp-c-gold-dark: #15803d; /* rich dark green */
+
+  /* Lighter/Darker brand variations */
+  --vp-c-brand-lighter: #bbf7d0; /* pale mint */
+  --vp-c-brand-dark: #34d399; /* teal-leaning green */
+  --vp-c-brand-darker: #059669; /* deep teal-green */
+
+  /* Example gradients */
+  --vp-gradient-brand: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+  --vp-gradient-brand-light: linear-gradient(135deg, #bbf7d0 0%, #6ee7a3 100%);
+  --vp-gradient-brand-dark: linear-gradient(135deg, #059669 0%, #15803d 100%);
   
   --vp-font-family-base: 'Inter', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --vp-font-family-mono: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
@@ -147,11 +157,11 @@
 
 .dark .VPFeature:hover {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-  border-color: #c5b50f;
+  border-color: #15803d;
 }
 
 .VPNavBarTitle {
-  font-weight: bold;
+  display: none !important;
 }
 
 /* Removed CSS-based logo switching in favor of JavaScript approach */
@@ -294,3 +304,11 @@
 }
 
 /* Removed hero name styling */
+
+.VPHero .image img[src="/assets/noma_logo.png"] { margin: 0 0 0 20%; }
+
+@media (max-width: 768px) {
+  .VPHero .image img[src="/assets/noma_logo.png"] {
+    margin: 0 0 0 0;
+  }
+}
