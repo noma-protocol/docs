@@ -7,7 +7,7 @@ The protocol has been deployed on the Monad Testnet. The following table lists t
 | Contract Name | Address |
 | ------------- | ------- |
 | NomaFactory | [0x4cfd6c4971fcDE21Fa3A50262471A4A8d6ef0715](https://testnet.monadexplorer.com/address/0x4cfd6c4971fcDE21Fa3A50262471A4A8d6ef0715) |
-| ExchangeHelper | [0xf8566a07Dc36E0A712Dc86cfEAe065dAd48A52B3](https://testnet.monadexplorer.com/address/0xf8566a07Dc36E0A712Dc86cfEAe065dAd48A52B3) |
+| ExchangeHelper | [0xf1F3b64305E5cC19a949e256f029AfBDbf63e15e](https://testnet.monadexplorer.com/address/0xf1F3b64305E5cC19a949e256f029AfBDbf63e15e) |
 | ModelHelper | [0xB580F5C6e7E93D8a7BDb259f2Be63Be80eD461Fa](https://testnet.monadexplorer.com/address/0xB580F5C6e7E93D8a7BDb259f2Be63Be80eD461Fa) |
 
 
