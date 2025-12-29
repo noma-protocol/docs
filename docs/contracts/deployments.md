@@ -1,30 +1,30 @@
 # Smart contracts deployments
 
-The protocol has been deployed on the Monad Testnet. The following table lists the contract addresses.
+The protocol has been deployed on the Monad mainnet. The following table lists the contract addresses.
 
 ## Core contracts
 
 | Contract Name | Address |
 | ------------- | ------- |
-| NomaFactory | [0x4cfd6c4971fcDE21Fa3A50262471A4A8d6ef0715](https://testnet.monadexplorer.com/address/0x4cfd6c4971fcDE21Fa3A50262471A4A8d6ef0715) |
-| ExchangeHelper | [0xf1F3b64305E5cC19a949e256f029AfBDbf63e15e](https://testnet.monadexplorer.com/address/0xf1F3b64305E5cC19a949e256f029AfBDbf63e15e) |
-| ModelHelper | [0xB580F5C6e7E93D8a7BDb259f2Be63Be80eD461Fa](https://testnet.monadexplorer.com/address/0xB580F5C6e7E93D8a7BDb259f2Be63Be80eD461Fa) |
+| NomaFactory | [0x8F5A48cC4b469e68C0A196A7B13b029fC36Ae9F0](https://monadexplorer.com/address/0x8F5A48cC4b469e68C0A196A7B13b029fC36Ae9F0) |
+| ExchangeHelper | [0x14d53E0f8A3d4bf69a5967fbd56Fdf16Ad52ef71](https://monadexplorer.com/address/0x14d53E0f8A3d4bf69a5967fbd56Fdf16Ad52ef71) |
+| ModelHelper | [0xEc97e1098d4f496C14b17142943EC6f009cE5204](https://monadexplorer.com/address/0xEc97e1098d4f496C14b17142943EC6f009cE5204) |
 
 
 ## NOMA/WMON Vault 
 | Contract Name | Address |
 | ------------- | ------- |
-| Vault | [0x0b3507D715DCd7ee876626013b8BC7Fa1B069232](https://testnet.monadexplorer.com/address/0x0b3507D715DCd7ee876626013b8BC7Fa1B069232) |
+| Vault | [0x0832E57B050A290ee074CC2Bc0E84A499d92a471](https://monadexplorer.com/address/0x0832E57B050A290ee074CC2Bc0E84A499d92a471) |
 
 ## NOMA/WMON Uniswap V3 Pool
 | Contract Name | Address |
 | ------------- | ------- |
-| UniswapV3Pool | [0x222705B830a38654B46340A99F5F3f1718A5C95d](https://testnet.monadexplorer.com/address/0x222705B830a38654B46340A99F5F3f1718A5C95d) |
+| UniswapV3Pool | N/A |
 
 ## Token contracts
 | Token Name | Symbol | Address |
 | ------------- | ------- | ------- |
-| Noma Token | NOMA | [0x550e4395567137f42857659a1A0F1b3b268Bb11F](https://testnet.monadexplorer.com/token/0x550e4395567137f42857659a1A0F1b3b268Bb11F) |
+| Noma Token | NOMA | [0x39B608d563bEBB6B785a65071928B0d090E08a41](https://monadexplorer.com/token/0x39B608d563bEBB6B785a65071928B0d090E08a41) |
 
 <!-- | Noma token staked | sNOMA | [0x6a26974ce348113b57a3fab9ad9fe2975ccde13b](https://bscscan.com/address/0x6a26974ce348113b57a3fab9ad9fe2975ccde13b) |
  -->
